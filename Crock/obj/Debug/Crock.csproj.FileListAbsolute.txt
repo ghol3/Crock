@@ -1,0 +1,15 @@
+C:\Users\ghol3\Desktop\Crock\Crock\bin\Debug\Crock.exe.config
+C:\Users\ghol3\Desktop\Crock\Crock\bin\Debug\Crock.exe
+C:\Users\ghol3\Desktop\Crock\Crock\bin\Debug\Crock.pdb
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock.csprojResolveAssemblyReference.cache
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock.exe
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock.pdb
+C:\Users\ghol3\Desktop\Crock\Crock\bin\Debug\CrockSlider.dll
+C:\Users\ghol3\Desktop\Crock\Crock\bin\Debug\CrockSlider.pdb
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock.Properties.Resources.resources
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock._Forms.MainForm.resources
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock.csproj.GenerateResource.Cache
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock._Forms.User.resources
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock._Forms.Settings.resources
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock._Forms.Update.resources
+C:\Users\ghol3\Desktop\Crock\Crock\obj\Debug\Crock.csproj.ResolveComReference.cache

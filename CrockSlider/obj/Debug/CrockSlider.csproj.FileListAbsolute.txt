@@ -1,0 +1,7 @@
+C:\Users\ghol3\Desktop\Crock\CrockSlider\bin\Debug\CrockSlider.dll
+C:\Users\ghol3\Desktop\Crock\CrockSlider\bin\Debug\CrockSlider.pdb
+C:\Users\ghol3\Desktop\Crock\CrockSlider\obj\Debug\CrockSlider.csprojResolveAssemblyReference.cache
+C:\Users\ghol3\Desktop\Crock\CrockSlider\obj\Debug\CrockSlider.Slider.resources
+C:\Users\ghol3\Desktop\Crock\CrockSlider\obj\Debug\CrockSlider.csproj.GenerateResource.Cache
+C:\Users\ghol3\Desktop\Crock\CrockSlider\obj\Debug\CrockSlider.dll
+C:\Users\ghol3\Desktop\Crock\CrockSlider\obj\Debug\CrockSlider.pdb
